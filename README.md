@@ -1,2 +1,2 @@
-# bash_profile
-My Mac bash profile
+# dotfiles
+Some dotfiles for my Mac
